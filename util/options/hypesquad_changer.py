@@ -1,5 +1,5 @@
 # coding: utf-8
-# Copyright (C) 2023 github.com/Xvirus-Team
+# Copyright cashy
 
 from util import *
 
