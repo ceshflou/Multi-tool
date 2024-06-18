@@ -1,5 +1,5 @@
 # THE FREE VERSION!!!!!!!!!!
-
+# FOR THE PAID VERSION DM ME AT killintheseopps AND WE TALK ABOUT PRICE!!!!!
 
 # SKIDS
 people who tries to take my source are so fucked up
