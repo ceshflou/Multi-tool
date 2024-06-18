@@ -1,3 +1,6 @@
+# THE FREE VERSION!!!!!!!!!!
+
+
 # SKIDS
 people who tries to take my source are so fucked up
 
