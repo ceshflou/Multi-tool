@@ -31,7 +31,7 @@ Multi-tools is conveniently pre configured, simplifying the setup process for us
 
 ### Installation
 
-Run setup.bat, to install the requirements, then made a file in new text document named tokens.
+Run setup.bat, to install the requirements, then make a file in new text document named tokens.
 After u made that run multi-tool.py and u might got the multi-tool script on.
 
 ## Usage
